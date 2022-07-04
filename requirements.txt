@@ -1,0 +1,4 @@
+anytree>=2.8.0
+matplotlib>=3.5.2
+numpy>=1.23.0
+praw>=7.6.0

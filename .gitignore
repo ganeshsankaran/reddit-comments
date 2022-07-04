@@ -1,0 +1,11 @@
+# files
+.DS_Store
+
+# folders
+__pycache__
+
+# extensions
+.dot
+.gv
+.json
+.png
